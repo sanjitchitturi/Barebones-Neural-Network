@@ -1,18 +1,17 @@
-# Barebones Neural Network (Leaky ReLU)
+# Barebones Neural Network
 
-A simple **from-scratch Neural Network** implemented in **NumPy** that achieves **100% accuracy** on a toy classification dataset using **Leaky ReLU** activation.  
-Perfect for **beginners** to understand forward pass, backpropagation, weight updates, and decision boundaries — **no frameworks required**.
-
----
+A tiny 2-layer neural network from scratch in NumPy for binary classification.  
+Trains on synthetic data and plots the decision boundary.  
 
 ## Features
-- Fully implemented in **pure NumPy**
-- Two-layer Neural Network
-- **Leaky ReLU** activation for stable training
-- **Softmax** output for multi-class classification
-- Visualizations:
-  - Training vs. Validation accuracy curves
-  - Decision boundary plots
-- Compatible with **Google Colab** and **local Python environments**
+- Fully implemented forward + backward pass
+- No frameworks, just NumPy
+- Simple ReLU + Sigmoid architecture
+- Visual decision boundary plot
 
----
+## Usage
+```bash
+git clone https://github.com/sanjitchitturi/barebones-nn.git
+cd barebones-nn
+pip install -r requirements.txt
+python main.py
