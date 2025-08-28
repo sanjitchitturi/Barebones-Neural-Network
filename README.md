@@ -75,8 +75,8 @@ scikit-learn
 
 ## How it Works
 
-1. Generate 2-class synthetic data with `make_blobs`
-2. Initialize weights with **He initialization**
+1. Generate 2-class synthetic data with `make_blobs`.
+2. Initialize weights with **He initialization**.
 3. Forward pass:
 
    * Hidden layer: `ReLU`
@@ -85,6 +85,6 @@ scikit-learn
 
    * Binary cross-entropy loss
    * Gradient descent updates
-5. Plot decision boundary + accuracy results
+5. Plot decision boundary + accuracy results.
 
 ---
