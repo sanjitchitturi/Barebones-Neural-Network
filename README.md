@@ -61,14 +61,6 @@ decision_boundary.png
 
 ---
 
-## Example Output
-
-Training data (dots) vs test data (crosses):
-
-![Decision Boundary](decision_boundary.png)
-
----
-
 ## Requirements
 
 Listed in `requirements.txt`:
