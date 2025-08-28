@@ -14,4 +14,4 @@ Trains on synthetic data and plots the decision boundary.
 git clone https://github.com/sanjitchitturi/Barebones-Neural-Network.git
 cd Barebones-Neural-Network
 pip install -r requirements.txt
-python main.py
+python main.py  # or open main.ipynb in Jupyter
