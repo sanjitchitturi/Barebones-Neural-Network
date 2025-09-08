@@ -21,8 +21,8 @@ No TensorFlow. No PyTorch. Just pure NumPy + a bit of math.
 
 Clone the repo:
 ```bash
-git clone https://github.com/sanjitchitturi/Barebones-Neural-Network.git
-cd Barebones-Neural-Network
+git clone https://github.com/sanjitchitturi/barebones-neural-network.git
+cd barebones-neural-network
 ````
 
 Install dependencies:
