@@ -73,7 +73,7 @@ scikit-learn
 
 ---
 
-## How it Works
+## How It Works
 
 1. Generate 2-class synthetic data with `make_blobs`.
 2. Initialize weights with **He initialization**.
